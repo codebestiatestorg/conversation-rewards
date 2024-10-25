@@ -2,7 +2,7 @@ plugins:
   - skipBotEvents: true
     uses:
       # conversation-plugin
-      plugin: ubiquity-os/conversation-rewards
+      plugin: codebestiatestorg/conversation-rewards
       with:
         logLevel: "info"
         evmNetworkId: 100
